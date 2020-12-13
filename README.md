@@ -1,6 +1,6 @@
 ![github-banner](https://user-images.githubusercontent.com/73482293/102000236-43ed5b80-3cdd-11eb-8b4c-bfe2db8caf93.png)
 
-*Hi, how are you doing?* Welcome to my GitHub Page! My name is Noelle, a recent Mathematics graduated interested in all things Software Development. I have tasked myself with an #80DaysofCode challenge (ends 1st Jan 2021) where I have been building a solid foundation in frontend and backened technologies. .My current tech stack includes Python, SQL, HTML and CSS.
+*Hi, how are you doing?* Welcome to my GitHub Page! My name is Noelle, a recent Mathematics graduated interested in all things Software Development. I have tasked myself with an #80DaysofCode challenge (ends 1st Jan 2021) where I have been building a solid foundation in frontend and backened technologies. 
 
 <br/>
 
