@@ -1,36 +1,32 @@
-![github-banner](https://user-images.githubusercontent.com/73482293/102000236-43ed5b80-3cdd-11eb-8b4c-bfe2db8caf93.png)
+# :computer: Welcome to my page 
+Hello there, it's nice to see you here!
 
-*Hi, how are you doing?* 
-Welcome to my GitHub Page! My name is Noelle, and I am a recent Bsc (Hons) Mathematics with Economics Graduate. I am interested in the world of Software Development, so I have tasked myself with an 80 day coding challenge (ends 1st Jan 2021) , where I am building a solid foundation in frontend and backened technologies. 
+My name is Noelle :wave: I am a Mathematic with Economics Graduate who is passionate Technology and creating equal opportunties for all. Since 2019, I have been building a solid foundation in Frontend and Backend technologies. In my spare time, I have been creating responsive web applications and using my other skills to manipulate and analyse data. My current Tech stack includes HTML, CSS, JavaScript, Bootstrap, Python and SQL (and it will continue to grow!)
 
-<br/>
+# 💬 **Fun Facts**
+- (Part-time) Vegan :seedling:
+- Also a (part-time) jogger :runner:
+- Likes to travel :earth_africa:
+- Loves red velvet cake :cake:
 
-💬 **A bit about me ...**
-- I like to code
-- (Part-time) Vegan
-- Also a (part-time) jogger
-- I love to travel
+<br>
 
-<br/>
+# :books: **I'm currently learning**
+- React 
+- Node Js
 
-:books: **I'm currently learning**
-- JavaScript
-- React
+<br>
 
-<br/>
-
-:computer: **I'm currently working on**
+# :hammer: **I'm currently working on**
 - My portfolio website
-- Various Projects
 
-<br/>
+<br>
 
-😄 **2020 Goals**
-- Complete my portfolio website
-- Build my first mobile application
+# 😄 **2021 Goals**
+- Complete my first mobile application (using React Native)
 
-<br/>
+<br>
 
-📫 **How to reach me**
+# 📫 **How to reach me**
 - LinkedIn: [Noelle Donkor](https://www.linkedin.com/in/noelle-donkor/)
 
