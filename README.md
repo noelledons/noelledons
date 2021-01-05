@@ -5,7 +5,7 @@ My name is Noelle :wave: I am a Mathematic with Economics Graduate who is passio
 
 <br>
 
-# 💬 **Fun Facts**
+## 💬 **Fun Facts**
 - (Part-time) Vegan :seedling:
 - Also a (part-time) jogger :runner:
 - Likes to travel :earth_africa:
@@ -13,22 +13,22 @@ My name is Noelle :wave: I am a Mathematic with Economics Graduate who is passio
 
 <br>
 
-# :books: **I'm currently learning**
+## :books: **I'm currently learning**
 - React 
 - Node Js
 
 <br>
 
-# :hammer: **I'm currently working on**
+## :hammer: **I'm currently working on**
 - My portfolio website
 
 <br>
 
-# 😄 **2021 Goals**
+## 😄 **2021 Goals**
 - Complete my first mobile application (using React Native)
 
 <br>
 
-# 📫 **How to reach me**
+## 📫 **How to reach me**
 - LinkedIn: [Noelle Donkor](https://www.linkedin.com/in/noelle-donkor/)
 
