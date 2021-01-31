@@ -1,7 +1,7 @@
 # :computer: Welcome to my page 
 Hello there, it's nice to see you here!
 
-My name is Noelle :wave: I am a Mathematics with Economics Graduate who is passionate about Technology and creating equal opportunties for all. Since 2019, I have been building a solid foundation in Frontend and Backend technologies. In my spare time, I have been creating responsive web applications and using my skills to manipulate and analyse data. My current Tech stack includes HTML/CSS, JavaScript, Bootstrap, Python and SQL (and it is still growing!) :smile:
+My name is Noelle :wave: I am a Mathematics with Economics Graduate turned software developer and data science enthusiast! Since 2019, I have been using my spare time to build a solid foundation in frontend and backend technologies. To date, I have built responsive web applications that can be viewed on my page. My current tech stack includes HTML/CSS, JavaScript, Bootstrap, Python and SQL (and it is still growing!) :smile:
 
 <br>
 
@@ -13,14 +13,20 @@ My name is Noelle :wave: I am a Mathematics with Economics Graduate who is passi
 
 <br>
 
-## :books: **I'm currently learning**
-- React 
+## :star: **Project Directory**
+- View my projects [here](https://github.com/noelledons/project-directory)
 
 <br>
 
 ## :hammer: **I'm currently working on**
-- My portfolio website
-- View a list of my projects [here](https://github.com/noelledons/project-directory)
+- My portfolio website :tick:
+- View a list of my projects
+
+<br>
+
+## :books: **I'm currently learning**
+- React 
+- Flask
 
 <br>
 
@@ -31,4 +37,5 @@ My name is Noelle :wave: I am a Mathematics with Economics Graduate who is passi
 
 ## 📫 **How to reach me**
 - LinkedIn: [Noelle Donkor](https://www.linkedin.com/in/noelle-donkor/)
+- Website: 
 
