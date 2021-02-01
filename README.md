@@ -37,5 +37,5 @@ My name is Noelle :wave: I am a Mathematics with Economics Graduate turned softw
 
 ## 📫 **How to reach me**
 - LinkedIn: [Noelle Donkor](https://www.linkedin.com/in/noelle-donkor/)
-- Website: 
+- Website: [noelledonkor.com](https://wwww.noelledonkor.com)
 
