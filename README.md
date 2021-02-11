@@ -20,13 +20,11 @@ My name is Noelle :wave: I am a Mathematics with Economics Graduate turned softw
 
 ## :hammer: **I'm currently working on**
 - My portfolio website :heavy_check_mark:
-- View a list of my projects
 
 <br>
 
 ## :books: **I'm currently learning**
 - React 
-- Flask
 
 <br>
 
