@@ -1,7 +1,7 @@
 # :computer: Welcome to my page 
 Hello there, it's nice to see you here!
 
-My name is Noelle :wave: I am a Mathematics with Economics Graduate turned software developer and data science enthusiast! Since 2019, I have been using my spare time to build a solid foundation in frontend and backend technologies. To date, I have built responsive web applications that can be viewed on my page. My current tech stack includes HTML/CSS, JavaScript, Bootstrap, Python and SQL (and it is still growing!) :smile:
+My name is Noelle :wave: I am a Mathematics with Economics Graduate turned software developer and data science enthusiast! Since 2019, I have been using my spare time to build a solid foundation in frontend and backend technologies. To date, I have built responsive web applications that can be viewed on my page. :smile:
 
 <br>
 
