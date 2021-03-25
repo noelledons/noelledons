@@ -1,6 +1,10 @@
 # :computer: Welcome to my page!
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=noelledons.visitor-badge)
+<br>
 
 ```python
+# python
+
 class SoftwareDeveloper:
     def __init__(self):
         self.name = "Noelle Donkor"
