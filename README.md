@@ -7,15 +7,14 @@
 
 class SoftwareDeveloper:
     def __init__(self):
-        self.name = "Noelle Donkor"
+        self.name = "Noelle"
         self.role = "Software Developer"
         self.location = "London"
         self.portfolio = "https://noelledonkor.com/"
         self.knowledge_base = [
             "Web Development",
-            "Data Science",
-            "Volunteering and",
-            "Food",
+            "Food and",
+            "Natural Hair",
         ]
         self.knowledge_base.insert(0, "Frontend and Backend Technologies")
 
@@ -23,7 +22,7 @@ class SoftwareDeveloper:
         print(
             """Hello there, thanks for stopping by!
             
-            My name is {name}, an aspiring {role} based in London, UK.
+            My name is {name}, a {role} based in London, UK.
             
             Recently, I have been focusing on understanding {focus} for my personal development.
             
