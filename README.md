@@ -42,7 +42,7 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 
-## :atom: **Project Directoru**
+## :atom: **Project Directory**
 - My Projects: [Project Directory](https://github.com/noelledons/project-directory)
 
 ## 📫 **How to reach me**
