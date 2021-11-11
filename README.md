@@ -12,9 +12,9 @@ class SoftwareDeveloper:
         self.location = "London"
         self.portfolio = "https://noelledonkor.com/"
         self.knowledge_base = [
-            "Web Development",
-            "Food and",
-            "Natural Hair",
+            "Food",
+            "Skincare and",
+            "Haircare!",
         ]
         self.knowledge_base.insert(0, "Frontend and Backend Technologies")
 
@@ -22,11 +22,9 @@ class SoftwareDeveloper:
         print(
             """Hello there, thanks for stopping by!
             
-            My name is {name}, a {role} based in London, UK.
+            My name is {name}, a {role} based in {location}.
             
-            Recently, I have been focusing on understanding {focus} for my personal development.
-            
-            I have a wide range of interests, but most of them are {knowledge_base}.
+            During the day, I spend my spare time learning about {focus}, and at Night, I love all things {knowledge_base}
             
             Do you want to know more about me? View my personal portfolio here: {portfolio}""".format(
                 name=self.name,
