@@ -27,6 +27,7 @@ class SoftwareDeveloper:
             During the day, I spend my spare time learning about {focus}, and at Night, I love all things {knowledge_base}
             
             Do you want to know more about me? View my personal portfolio here: {portfolio}""".format(
+            
                 name=self.name,
                 location=self.location,
                 role=self.role,
