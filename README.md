@@ -22,7 +22,9 @@ class SoftwareDeveloper:
             
             My name is {name}, a {role} based in {location}.
             
-            During the day, I spend my spare time learning about {focus}, and at Night, I love all things {knowledge_base}
+            During the day, I spend my spare time learning about {focus}, 
+            
+            and at Night, I love all things {knowledge_base}
             
             Do you want to know more about me? View my personal portfolio here: {portfolio}""".format(
             
