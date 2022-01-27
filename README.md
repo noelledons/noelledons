@@ -41,11 +41,3 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 
-## :atom: **Project Directory**
-- My Projects: [Project Directory](https://github.com/noelledons/project-directory)
-
-## 📫 **How to reach me**
-- LinkedIn: [Noelle Donkor](https://www.linkedin.com/in/noelle-donkor/)
-- Website: [noelledonkor.com](https://noelledonkor.com/)
-- Medium: [https://noelledons.medium.com/](https://noelledons.medium.com/)
-
