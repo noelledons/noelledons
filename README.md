@@ -41,8 +41,6 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 
-:pushpin: LinkedIn: [Noelle D.](https://www.linkedin.com/in/noelle-donkor/)
-<br>
 :pushpin: Medium: [Noelle D.](https://medium.com/@noelledons)
 <br>
 :pushpin: Instagram: [@shelikestocode](https://www.instagram.com/shelikestocode/)
