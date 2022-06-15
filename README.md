@@ -40,7 +40,3 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.say_hi()
 ```
-
-:pushpin: Medium: [Noelle D.](https://medium.com/@noelledons)
-<br>
-:pushpin: Instagram: [@shelikestocode](https://www.instagram.com/shelikestocode/)
