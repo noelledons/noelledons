@@ -40,3 +40,7 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.say_hi()
 ```
+### Where to find me :calling:
+:pushpin: Code Diary: [@SheLikesToCode](https://www.instagram.com/shelikestocode/)
+</br>
+:pushpin: Medium: [@noelledons](https://medium.com/@noelledons)
