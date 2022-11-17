@@ -41,6 +41,5 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 ### Where to find me :calling:
-:pushpin: Code Diary: [@SheLikesToCode](https://www.instagram.com/shelikestocode/)
-</br>
-:pushpin: Medium: [@noelledons](https://medium.com/@noelledons)
+:iphone: [Instagram](https://www.instagram.com/shelikestocode/) | :bookmark_tabs: [Medium](https://medium.com/@noelledons) | :briefcase: [Linkedin](https://www.linkedin.com/in/noelle-donkor/)
+
