@@ -28,6 +28,9 @@ const noelle = {
 - APIs
 - Data Structures & Algorithms :sweat_smile:
 
+### :hammer_and_pick: Project Directory
+- [View my projects here](https://github.com/noelledons/project-directory)
+
 ### :female_detective: Where to find me
 
 <p>
