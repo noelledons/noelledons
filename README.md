@@ -1,45 +1,41 @@
-# Hello There :wave:
+### **:woman_technologist: A bit about me**
 
-```python
-# python
+```javascript
 
-class SoftwareDeveloper:
-    def __init__(self):
-        self.name = "Noelle"
-        self.role = "Software Developer"
-        self.location = "London"
-        self.portfolio = "https://noelledonkor.com/"
-        self.knowledge_base = [
-            "Food",
-            "Skincare and",
-            "Haircare!",
-        ]
-        self.knowledge_base.insert(0, "Frontend and Backend Technologies")
+// JavaScript
 
-    def say_hi(self):
-        print(
-            """Hello there, thanks for stopping by!
-            
-            My name is {name}, a {role} based in {location}.
-            
-            During the day, I spend my spare time learning about {focus}, 
-            
-            and at Night, I love all things {knowledge_base}
-            
-            Do you want to know more about me? View my personal portfolio here: {portfolio}""".format(
-            
-                name=self.name,
-                location=self.location,
-                role=self.role,
-                focus=self.knowledge_base[0],
-                knowledge_base=", ".join(self.knowledge_base[1:]),
-                portfolio=self.portfolio,
-            )
-        )
+const noelle = {
+    pronouns: ["She", "Her"],
+    jobTitle: "Software Developer",
+    location: "London",
+    tech: ["JavaScript", "React", "Jest", "Python"],
+    interests: ["Skincare", "Volunteering", "Equality", "iPhone Photography", "Baking"],
+    currentFocus: "currently doing 100DaysOfCode to upskill and increase my technical knowledge"
+ }
 
-me = SoftwareDeveloper()
-me.say_hi()
+ console.log (
+   "My name is Noelle and I am a " + noelle.jobTitle + " based in", noelle.location + ". I am proficient in " 
+   + noelle.tech[0] + " and " + noelle.tech[1] + " but the long term goal is to be Fullstack. \nTo do this I am " 
+   + noelle.currentFocus + ". Thanks for reading!"
+  )
+
+//Task for you: Run the above in your chosen editor and see what appears :)
+
 ```
-### Where to find me :calling:
-:iphone: [Instagram](https://www.instagram.com/shelikestocode/) | :bookmark_tabs: [Medium](https://medium.com/@noelledons) | :briefcase: [Linkedin](https://www.linkedin.com/in/noelle-donkor/)
+
+### :books: Current Focus
+- Python/Django
+- APIs
+- Data Structures & Algorithms :sweat_smile:
+
+### :female_detective: Where to find me
+
+<p>
+   <a href="https://github.com/noelledons" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+    <a href="https://www.instagram.com/shelikestocode/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+    <a href="https://www.linkedin.com/in/noelle-donkor/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a> <a href="https://noelledons.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+**Interesting in collaborating together?** Drop me an [email](info@noelledonkor.com) :envelope_with_arrow:
 
