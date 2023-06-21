@@ -8,9 +8,9 @@ const noelle = {
     pronouns: ["She", "Her"],
     jobTitle: "Software Developer",
     location: "London",
-    tech: ["JavaScript", "React", "Jest", "Python"],
+    tech: ["JavaScript", "React", "Jest", "TypeScript", "Node.js"],
     interests: ["Skincare", "Volunteering", "Equality", "iPhone Photography", "Baking"],
-    currentFocus: "currently doing 100DaysOfCode to upskill and increase my technical knowledge"
+    currentFocus: "currently doing weekly challenges to upskill and increase my technical knowledge"
  }
 
  console.log (
@@ -24,8 +24,7 @@ const noelle = {
 ```
 
 ### :books: Current Focus
-- Python/Django
-- APIs
+- Python
 - Data Structures & Algorithms :sweat_smile:
 
 ### :hammer_and_pick: Project Directory
