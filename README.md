@@ -23,10 +23,6 @@ const noelle = {
 
 ```
 
-### :books: Current Focus
-- Python
-- Data Structures & Algorithms :sweat_smile:
-
 ### :hammer_and_pick: Project Directory
 - [View my projects here](https://github.com/noelledons/project-directory)
 
