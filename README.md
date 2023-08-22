@@ -34,5 +34,5 @@ const noelle = {
     </a> <a href="https://noelledons.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-**Interesting in collaborating together?** Drop me an [email](info@noelledonkor.com) :envelope_with_arrow:
+**Interesting in collaborating together?** Drop me an [email](noelle321@hotmail.co.uk) :envelope_with_arrow:
 
