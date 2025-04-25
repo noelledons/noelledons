@@ -4,26 +4,47 @@
 
 ### **:woman_technologist: A bit about me**
 
-```javascript
+```typescript
 
-// JavaScript
+// To run this TypeScript file:
+// 1. Save it as noelle.ts
+// 2. Run `tsc noelle.ts` to compile it to JavaScript
+// 3. Run `node noelle.js` to see the output in the terminal
 
-const noelle = {
-    pronouns: ["She", "Her"],
-    jobTitle: "Software Developer",
-    location: "London",
-    tech: ["JavaScript", "React", "TypeScript", "NextJS", "Node.js"],
-    interests: ["Skincare", "Volunteering", "Equality", "iPhone Photography", "Baking"],
-    currentFocus: "currently upskilling in the latest technologies"
- }
+type TechStack = "JavaScript" | "React" | "TypeScript" | "NextJS" | "Node.js";
 
- console.log (
-   "My name is Noelle and I am a " + noelle.jobTitle + " based in", noelle.location + ". I am proficient in " 
-   + noelle.tech[0] + " and " + noelle.tech[1] + " but the long term goal is to be Fullstack. \nTo do this I am " 
-   + noelle.currentFocus + ". Thanks for reading!"
-  )
+interface Developer {
+  name: string;
+  pronouns: [string, string];
+  jobTitle: string;
+  location: string;
+  tech: TechStack[];
+  interests: string[];
+  currentFocus: string;
+  introduce: () => void;
+}
 
-//Task for you: Run the above in your chosen editor and see what appears :)
+const noelle: Developer = {
+  name: "Noelle",
+  pronouns: ["She", "Her"],
+  jobTitle: "Software Developer",
+  location: "London",
+  tech: ["JavaScript", "React", "TypeScript", "NextJS", "Node.js"],
+  interests: ["Archery", "Volunteering", "Photography", "Baking"],
+  currentFocus: "currently upskilling in the latest technologies",
+
+  introduce() {
+    console.log(`👋 Hi there! I'm ${this.name}, a ${this.jobTitle} based in ${this.location}.`);
+    console.log(`💻 I mostly work with ${this.tech.join(", ")}, and I’m aiming to go Fullstack.`);
+    console.log(`📚 Right now, I'm ${this.currentFocus}.`);
+    console.log(`🍰 When I’m not coding, I love ${this.interests.join(", ")}.`);
+    console.log(`Thanks for stopping by! ✨`);
+  }
+};
+
+noelle.introduce();
+
+// Task: Run the above and get to know Noelle 🌸
 
 ```
 
