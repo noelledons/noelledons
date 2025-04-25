@@ -1,6 +1,6 @@
 
 # Welcome to my page 🌸
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=noelledons.noelledons)
+![](https://komarev.com/ghpvc/?username=noelledons&style=flat-square)
 
 ### **:woman_technologist: A bit about me**
 
