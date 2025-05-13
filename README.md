@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=noelledons&style=flat-square)
 
 ## 👩🏽‍🦱 About Me
-🚀 Software Engineer with 3+ years of versatile experience spanning Data, Banking, and Consulting sectors. Passionate about designing and optimising innovative applications that empower businesses of all sizes, leveraging both frontend and backend technologies. Dive into my projects and let’s connect to **create something extraordinary** 🌟
+🚀 Software Engineer with 4+ years of versatile experience spanning Data, Banking, and Consulting sectors. Passionate about designing and optimising innovative applications that empower businesses of all sizes, leveraging both frontend and backend technologies. Dive into my projects and let’s connect to **create something extraordinary** 🌟
 
 ### 🗺️ My Mission:
 - **Transform** ideas into impactful solutions 
